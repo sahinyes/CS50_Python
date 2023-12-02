@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" height=180>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" height=250>
     <p> 2022</p>
     <h1> Harvard CS50: Introduction to Programing with Python </h1>
 </div>
