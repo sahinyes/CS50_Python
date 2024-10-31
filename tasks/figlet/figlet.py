@@ -7,14 +7,14 @@ figlet.getFonts()
 
 
 if len(sys.argv) == 1:
-    isRandom = True
+    is_random = True
 elif len(sys.argv) == 3 and (sys.argv[1] == "-f" or sys.argv[1] == "--font"):
-    isRandom = False
+    is_random = False
 else:
     print("Invalid Usage")
     sys.exit(1)
 
-if isRandom == False:
+if is_random == False:
     try:
         figlet.setFont(font=sys.argv[2])
     except:
